@@ -11,6 +11,8 @@ of using a timer during the games that can be toggled in the Menu Scene.
 Following are two screenshots of the events triggering a vicotry or a game over screen.
 
 <div align=center>
+  <figure>
 <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/MineSweeper/images/minesweeper_game_over.png" height="800" />
   <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/MineSweeper/images/minesweeper_victory.png" height="800" />
+  </figure>
 </div>
