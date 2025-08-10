@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/free_glut-3.0.0.v140-blue"/>
   <img src="https://img.shields.io/badge/glew-v140-orange"/>
+  <img src="https://img.shields.io/badge/VisualStudio-C++-purple"/>
 </div>
 </div>
 
