@@ -13,4 +13,4 @@ The user can use his/her keyboard to insert letters, or use the keyboard buttons
   </figure>
 </div>
 
-Note: the words.txt file that is being used in the code is comprehensive of five thousands and 7 hundreds (more or less) 5-letter english words, is not included here. But it can be easily found online.
+Note: the words.txt file that is being used in the code comprehensive of five thousands and seven hundreds (more or less) 5-letter english words, is not included here. But it can be easily found online.
