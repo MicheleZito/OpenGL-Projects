@@ -6,9 +6,9 @@ having only 6 trials, try to guess it. The letters used in the trials give hints
 
 <div align=center>
   <figure>
-    <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/Wordle/images/wordle_window.png" height="500" />
-    <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/Wordle/images/wordle_gameover.png" height="500" />
-    <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/Wordle/images/wordle_citory.png" height="500" />
+    <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/Wordle/images/wordle_window.png" height="450" width = "300"/>
+    <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/Wordle/images/wordle_gameover.png" height="450" width = "300"/>
+    <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/Wordle/images/wordle_citory.png" height="450" width = "300"/>
   </figure>
 </div>
 
