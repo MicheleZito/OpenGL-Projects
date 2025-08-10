@@ -1,1 +1,15 @@
+# C++ OpenGL Project : Wordle
 
+## The Project
+Inspired by the online namesake game by [The New York Times](https://www.nytimes.com/games/wordle/index.html) here is a C++ and OpenGL implementation. Having an unseen target 5-letter english word,
+having only 6 trials, try to guess it. The letters used in the trials give hints on wheter the letters are included or not in the target. Following are screenshots of the game scene.
+
+<div align=center>
+  <figure>
+    <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/Wordle/images/wordle_window.png" height="500" />
+    <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/Wordle/images/wordle_gameover.png" height="500" />
+    <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/Wordle/images/wordle_citory.png" height="500" />
+  </figure>
+</div>
+
+Note: the words.txt file that is being used in the code is comprehensive of five thousands and 7 hundreds (more or less) 5-letter english words, is not included here. But it can be easily found online.
