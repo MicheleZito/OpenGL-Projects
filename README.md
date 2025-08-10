@@ -1,8 +1,8 @@
 <div id="top">
   
 <div align="center">
-  <a><img src="https://img.shields.io/badge/free_glut-3.0.0.v140-blue"/></a>
-  <a><img src="https://img.shields.io/badge/glew-v140-orange"/></a>
+  <img src="https://img.shields.io/badge/free_glut-3.0.0.v140-blue"/>
+  <img src="https://img.shields.io/badge/glew-v140-orange"/>
 </div>
 </div>
 
