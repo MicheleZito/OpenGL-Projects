@@ -2,7 +2,8 @@
 
 ## The Project
 Inspired by the online namesake game by [The New York Times](https://www.nytimes.com/games/wordle/index.html) here is a C++ and OpenGL implementation. Having an unseen target 5-letter english word,
-having only 6 trials, try to guess it. The letters used in the trials give hints on wheter the letters are included or not in the target. Following are screenshots of the game scene.
+with only 6 trials, try to guess it. The letters used in the trials give hints on whether the letters are included or not in the target. Following are screenshots of the game scene.
+The user can use his/her keyboard to insert letters, or use the keyboard buttons on screen.
 
 <div align=center>
   <figure>
