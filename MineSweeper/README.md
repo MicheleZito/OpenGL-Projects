@@ -3,5 +3,5 @@
 ## The Project
 
 <div align=center>
-<img src="https://github.com/MicheleZito/OpenGL-Projects/MineSweeper/images/minesweeper_menu.png" height="600" />
+<img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/MineSweeper/images/minesweeper_menu.png" height="600" />
 </div>
