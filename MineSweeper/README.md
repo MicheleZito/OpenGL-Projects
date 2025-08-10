@@ -8,7 +8,7 @@ of using a timer during the games that can be toggled in the Menu Scene.
 <img src="https://github.com/MicheleZito/OpenGL-Projects/blob/main/MineSweeper/images/minesweeper_menu.png" height="200" />
 </div>
 
-Following are two screenshots of the events triggering a vicotry or a game over screen.
+Following are two screenshots of the events triggering a victory or a game over screen.
 
 <div align=center>
   <figure>
